@@ -9,7 +9,7 @@ class Animal {
 }
 
 
-
+const animal = new Animal(1, 'test');
 
 
 
