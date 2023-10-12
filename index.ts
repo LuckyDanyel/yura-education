@@ -12,4 +12,4 @@ class Animal {
 const animal = new Animal(1, 'test');
 
 
-
+const animal = new Animal(5, 'test1');
